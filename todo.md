@@ -4,11 +4,12 @@
 - [ ] Lockscreen Notifications @cj
 - [ ] Notification Centre @cj
 - [ ] Siri @cj
-- [ ] Maps
-- [ ] Apple Music
-- [ ] Apple News
+- [ ] Maps @mon
+- [ ] Apple Music @mon
+- [ ] Apple News @mon
 - [ ] Photos
 - [ ] Messages
 - [ ] Home (HomeKit App)
 - [ ] 3D Touch
-- [ ]
+- [ ] Clock app
+- [ ] Widgets

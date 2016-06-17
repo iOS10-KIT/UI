@@ -13,6 +13,9 @@ Here's what's included in the repo:
 - ``Apps`` — This folder contains the templates for the newly-updated apps in iOS 10, namely Maps, Music, Messages, Health and Home.
 - ``System`` — This folder contains the new iOS system screens, such as the redesigned lockscreen, Spotlight and Control Centre.
 
+You can use the included Sketch files to figure out the overall look and feel of iOS 10, as well as copy the metrics for UI elements. This UI kit is best paired with the [iOS Human Interface Guidelines by Apple](https://developer.apple.com/ios/human-interface-guidelines/).
+
+
 ## How You Can Help
 
 We want designers and developers to share these design files, and contribute to this repo as the iOS 10 beta changes over time. **This is the goal of this UI kit**.

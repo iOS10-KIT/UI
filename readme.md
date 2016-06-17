@@ -1,6 +1,8 @@
 # iOS 10 UI Kit
 #### An open-source, collaborative UI design template
 
+![Screen Shots](http://puzzles.design/resources/header_full.jpg)
+
 ## How To Use
 
 You can [download the latest version here](https://github.com/iOS10-KIT/UI/archive/master.zip). Once downloaded, you're free to use all the Sketch files for UI design work. You're just not allowed to re-package it and claim it as your own— we're all sharing this, plus all designs are [from Apple](http://www.apple.com/ios/ios10-preview/).

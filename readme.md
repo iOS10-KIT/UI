@@ -1,7 +1,7 @@
 # iOS 10 UI Kit
 #### An open-source, collaborative UI design template
 
-![Screen Shots](http://puzzles.design/resources/header_full.jpg)
+![Main cover](http://puzzles.design/resources/header_full.jpg)
 
 ## How To Use
 
@@ -32,5 +32,3 @@ If you want to work on something and submit it, simply:
 4. Submit a [pull request](https://github.com/iOS10-KIT/UI/compare) referencing the Issue.
 
 If you're not familiar with Git— [learn it](http://code.tutsplus.com/tutorials/git-for-designers--pre-54689). Or, share this repo with your friends. The more people know about this, the more people will contribute to this repo! Share it on Twitter, Facebook, or, if you're into taboo, share it on LinkedIn.
-
-

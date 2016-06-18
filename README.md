@@ -24,6 +24,10 @@ If you want to work on something and submit it, simply:
 2. If not, [create a new Issue](https://github.com/iOS10-KIT/UI/issues/new) and assign yourself to it— so no-ones working on the same thing at once
 3. Submit a [pull request](https://github.com/iOS10-KIT/UI/compare) referencing the issue.
 
+###### Familiar with Git
+
+If you're familiar with Git, clone the repo and feel free to tweak the files included. If you end up adding new features, screens, UI elements— or change things as the iOS 10 beta improves over time— submit a pull request and we'll merge it back for everyone to share!
+
 ###### Not familiar with git? Don't worry!
 
 There is only a few steps to contribute to the iOS 10 UI Kit!
@@ -66,9 +70,5 @@ You'll get asked for a title and a description, if you fill that in and tap `Cre
 Adding images makes it easier to review! :)
 
 There are tons of courses to learn Git! [Here](http://code.tutsplus.com/tutorials/git-for-designers--pre-54689) is one for instance.
-
-###### Familiar with Git
-
-If you're familiar with Git, clone the repo and feel free to tweak the files included. If you end up adding new features, screens, UI elements— or change things as the iOS 10 beta improves over time— submit a pull request and we'll merge it back for everyone to share!
 
 You can also share this repo with your friends. The more people that know about this, the more people will contribute to it! Share it on Twitter, Facebook, or, if you're into taboo, share it on LinkedIn.

@@ -1,7 +1,4 @@
-# iOS 10 UI Kit
-#### An open-source, collaborative UI design template
-
-![Main cover](http://puzzles.design/resources/header_full.jpg)
+![Main cover](https://github.com/iOS10-KIT/Website/blob/master/resources/cover.png)
 
 ## How To Use
 

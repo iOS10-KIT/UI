@@ -34,32 +34,38 @@ There is only a few steps to contribute to the iOS 10 UI Kit!
 
 1. Download the kit and do your change. In order to now have merge conflicts (a git thing), once you are done with all the tweaking, go to step 2!
 2. Now we are going to have to do some git, but don't worry, we've prepared a couple of images to make it easier!
-3. Clone this repository to your desktop, that's as easy as copying the URL of the GitHub page in the terminal, as so:
+3. Do a fork to this repository to your own one! That is as easy as tapping the button in the top right corner.
+
+<div align = "center">
+<img src="https://github.com/iOS10-KIT/Website/blob/master/resources/git/fork.png" />
+</div>
+
+4. Clone then the URL of the repository that was created to your desktop, that's as easy as copying the URL of the GitHub page in the terminal, like so:
 
 <div align = "center">
 <img src="https://github.com/iOS10-KIT/Website/blob/master/resources/git/first.png" />
 </div>
 
-4. There are some steps in the image now, but it's pretty straight forward:
+5. There are some steps in the image now, but it's pretty straight forward:
 
 <div align = "center">
 <img src="https://github.com/iOS10-KIT/Website/blob/master/resources/git/second.png" />
 </div>
 
 - The `cd` goes to the folder you tell it to go, if you cloned the repository in the Desktop, just do `cd UI`, or the name of the folder at that time.
-- Now, in here you implement your changes from before, copying and pasting, etc.
+- Now, in here you implement your design changes from before, copying and pasting, etc.
 - The next step is to create your branch, this is for us to be able to see it! :) You do so by `git branch name-branch`.
 - You checkout to that branch, commit the changes and push to us.
 
 That's it in the terminal! You can close it until next time!
 
-5. Go to [Github](https://github.com/iOS10-KIT/UI) now, and search for the button `Branches` and tap it.
+6. Go to the GitHub repository in your account now (the one that was created after the fork) and search for the button `Branches` and tap it.
 
 <div align = "center">
 <img src="https://github.com/iOS10-KIT/Website/blob/master/resources/git/third.png" />
 </div>
 
-6. Now you'll see your branch, just create a `Pull Request` with it.
+7. Now you'll see your branch, just create a `Pull Request` with it.
 
 <div align = "center">
 <img src="https://github.com/iOS10-KIT/Website/blob/master/resources/git/fourth.png" />

@@ -1,0 +1,1 @@
+*.sketch filter=lfs diff=lfs merge=lfs -crlf
